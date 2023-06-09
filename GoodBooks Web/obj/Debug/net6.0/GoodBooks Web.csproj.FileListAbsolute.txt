@@ -1,0 +1,26 @@
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/appsettings.Development.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/appsettings.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web.staticwebassets.runtime.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web.deps.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web.runtimeconfig.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web.dll
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/ref/GoodBooks Web.dll
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/bin/Debug/net6.0/GoodBooks Web.pdb
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.csproj.AssemblyReference.cache
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.AssemblyInfoInputs.cache
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.AssemblyInfo.cs
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.csproj.CoreCompileInputs.cache
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.MvcApplicationPartsAssemblyInfo.cache
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.RazorAssemblyInfo.cache
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.RazorAssemblyInfo.cs
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/staticwebassets.build.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/staticwebassets.development.json
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/scopedcss/bundle/GoodBooks Web.styles.css
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/scopedcss/projectbundle/GoodBooks Web.bundle.scp.css
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.dll
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/ref/GoodBooks Web.dll
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.pdb
+/home/raj/Dot net trick/Project/GoodBooks/GoodBooks Web/obj/Debug/net6.0/GoodBooks Web.genruntimeconfig.cache
